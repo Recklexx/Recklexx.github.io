@@ -16,5 +16,5 @@ date: 2024-07-09
 [CSBDeep](https://csbdeep.bioimagecomputing.com/) is a deep learning toolbox for microscopy image restoration and analysis.
 
 ### ZS-DeconvNet Fiji plugin
-A `Java`-based plugin for ZS-DeconvNet, which enables one-click training and inference of ZS-DeconvNet.
+[ZS-DeconvNet Fiji plugin](https://tristazeng.github.io/ZS-DeconvNet-page/Tutorial/#Fiji%20plugin) is a `Java`-based plugin for ZS-DeconvNet, which enables one-click training and inference of ZS-DeconvNet.
 
