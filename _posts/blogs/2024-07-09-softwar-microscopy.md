@@ -10,4 +10,10 @@ date: 2024-07-09
 [Napari](https://napari.org/stable/index.html) is a Python library for n-dimensional image visualisation, annotation, and analysis. 
 
 ### deepImageJ
-[DeepImageJ](https://deepimagej.github.io/) is a user-friendly plugin that enables the use of a variety of pre-trained neural networks in ImageJ and Fiji. 
+[DeepImageJ](https://deepimagej.github.io/) is a user-friendly plugin that enables the use of a variety of pre-trained neural networks in ImageJ and Fiji.
+
+### CSBDeep
+[CSBDeep](https://csbdeep.bioimagecomputing.com/) is a deep learning toolbox for microscopy image restoration and analysis.
+
+### ZS-DeconvNet Fiji plugin
+A `Java`-based plugin for ZS-DeconvNet.
