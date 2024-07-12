@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Softwares for microscopy"
+title: "Softwares for Microscopy Images"
 author: "Qiqi Lu"
 category: blog
 date: 2024-07-09
@@ -19,6 +19,8 @@ Operation systems: `Linux`, `macOS`, `Windows`
 ### deepImageJ
 [DeepImageJ](https://deepimagej.github.io/) is a user-friendly plugin that enables the use of a variety of pre-trained neural networks in ImageJ and Fiji.
 
+It gives access to the largest bioimage repository of pre-trained deep learning models ([BioImage Model Zoo](https://bioimage.io/#/))
+
 ### CSBDeep
 [CSBDeep](https://csbdeep.bioimagecomputing.com/) is a deep learning toolbox for microscopy image restoration and analysis.
 
@@ -34,3 +36,8 @@ For the model developed using `Pytorch` and `Java`, [DeepJavaLibrary](https://ww
 
 PyImageJ is a libaray for programmers, requiresing expplicit conversion of Python data structures such as Numpy images into equicalent Java before they can be passed to ImageJ routines.
 
+### ZeroCostDL4Mic
+[ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic/wiki) is a toolbox for the training and implementation of common Deep Learning approaches to microscopy imaging and a collection of self-explanatory `Jupyter Notebooks` for Google Colab.. It exploits the ease of use and access to GPU provided by Google Colab.
+
+### ImJoy
+[ImJoy](https://imjoy.io/#/)'s core is a severless pregressive web application offering a fast and reliable user experience across all mainstream platforms, including laptops and mobile devices.
