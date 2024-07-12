@@ -9,6 +9,8 @@ date: 2024-07-09
 ### napari
 [Napari](https://napari.org/stable/index.html) is a Python library for n-dimensional image visualisation, annotation, and analysis. 
 
+[Napari plugins](https://napari.org/stable/plugins/building_a_plugin/first_plugin.html#what-is-a-plugin) are just Python packages.
+
 #### napari-imagej
 [napari-imagej](https://napari.imagej.net/en/latest/) is a layer on top of PyImageJ (i.e., a napari plug-in), automating data conversions and enabling access to ImageJ funcitonality within one unified napari interface.
 
