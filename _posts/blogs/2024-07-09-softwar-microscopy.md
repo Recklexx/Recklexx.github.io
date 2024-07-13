@@ -7,17 +7,17 @@ date: 2024-07-09
 ---
 
 ### napari
-[Napari](https://napari.org/stable/index.html) is a Python library for n-dimensional image visualisation, annotation, and analysis. 
+[Napari](https://napari.org/stable/index.html) is a `Python` library for n-dimensional image visualisation, annotation, and analysis. 
 
-[Napari plugins](https://napari.org/stable/plugins/building_a_plugin/first_plugin.html#what-is-a-plugin) are just Python packages.
+[Napari plugins](https://napari.org/stable/plugins/building_a_plugin/first_plugin.html#what-is-a-plugin) are just `Python` packages.
 
 #### napari-imagej
-[napari-imagej](https://napari.imagej.net/en/latest/) is a layer on top of PyImageJ (i.e., a napari plug-in), automating data conversions and enabling access to ImageJ funcitonality within one unified napari interface.
+[napari-imagej](https://napari.imagej.net/en/latest/) is a layer on top of `PyImageJ` (i.e., a napari plug-in), automating data conversions and enabling access to `ImageJ` funcitonality within one unified napari interface.
 
 Operation systems: `Linux`, `macOS`, `Windows`
 
 ### deepImageJ
-[DeepImageJ](https://deepimagej.github.io/) is a user-friendly plugin that enables the use of a variety of pre-trained neural networks in ImageJ and Fiji.
+[DeepImageJ](https://deepimagej.github.io/) is a user-friendly plugin that enables the use of a variety of pre-trained neural networks in `ImageJ` and `Fiji`.
 
 It gives access to the largest bioimage repository of pre-trained deep learning models (`BioImage Model Zoo`)
 
