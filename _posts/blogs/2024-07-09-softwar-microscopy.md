@@ -41,3 +41,48 @@ PyImageJ is a libaray for programmers, requiresing expplicit conversion of Pytho
 
 ### ImJoy
 [ImJoy](https://imjoy.io/#/)'s core is a severless pregressive web application offering a fast and reliable user experience across all mainstream platforms, including laptops and mobile devices.
+
+ImJoy’s functionalities are provided by independently operating plugins (written in different languages) that can be organized into workflows.
+
+### ilastik
+[ilastik](https://www.ilastik.org/) is an interactive learning and segmentation toolkit.
+
+### Icy
+[Icy](https://icy.bioimageanalysis.org/) is an open community platform for bioimage informatics.
+
+Language: `Java`
+
+### ImageJ
+
+Language: `Java`
+
+### Fiji
+
+Language: `Java`
+
+### ImageJ2
+Language: `Java`
+
+### BioImageXD
+
+Language: `C++` or `Python`
+
+### Cell Profiler
+
+Language: `Python`
+
+### QuPath
+[QuPath](https://qupath.github.io/) is an open source software for bioimage analysis and can be esily integration with other tools, including ImageJ.
+
+Language: `Java`
+
+### KNIME
+
+### StarDist
+[StarDist](https://github.com/stardist/stardist) is an Python implementation of star-convex object detection for 2D and 3D images.
+
+Language: `Python`
+
+
+
+
