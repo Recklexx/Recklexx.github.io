@@ -6,6 +6,15 @@ category: blog
 date: 2024-07-09
 ---
 
+### JIPipe
+[JIPipe](https://jipipe.hki-jena.de/) is a visual programming language for ImageJ that allows you to create macros without any programming by just creating a flowchart.
+
+### Cellpose
+[Cellpose](https://github.com/mouseland/cellpose) is a generalist algorithm for cell and nucleus segmentation (v1.0) that can be optimized for your own data (v2.0) and perform image restoration (v3.0).
+
+### ModularImageAnalysis (MIA)
+[MIA](https://mianalysis.github.io/index.html) is a Fiji plugin providing a modular framework for assembling image and object analysis workflows.
+
 ### napari
 [Napari](https://napari.org/stable/index.html) is a `Python` library for n-dimensional image visualisation, annotation, and analysis. 
 
